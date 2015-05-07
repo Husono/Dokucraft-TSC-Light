@@ -1,0 +1,65 @@
+{
+"__comment": "Designed by Husono with BDcraft Cubik PRO 0.93 Beta - http://bdcraft.net",
+"textures": {
+    "particle": "blocks/fence_front",
+    "texture_front": "blocks/fence_front",
+    "fence_side": "blocks/fence_side1",
+    "fence_top": "blocks/fence_top"
+},
+"elements": [ 
+{
+    "from": [ 0, 5, 7 ],
+    "to": [ 2, 16, 9 ],
+    "faces": {
+        "down":  { "uv": [ 16, 9, 14, 7 ], "texture": "#fence_top" },
+        "up":    { "uv": [ 0, 7, 2, 9 ], "texture": "#fence_top" },
+        "north": { "uv": [ 7, 0, 9, 11 ], "texture": "#fence_side" },
+        "south": { "uv": [ 7, 0, 9, 11 ], "texture": "#fence_side" },
+        "west":  { "uv": [ 7, 0, 9, 11 ], "texture": "#fence_side" },
+        "east":  { "uv": [ 7, 0, 9, 11 ], "texture": "#fence_side" }
+    }
+},
+{
+    "from": [ 14, 5, 7 ],
+    "to": [ 16, 16, 9 ],
+    "faces": {
+        "down":  { "uv": [ 2, 9, 0, 7 ], "texture": "#fence_top" },
+        "up":    { "uv": [ 14, 7, 16, 9 ], "texture": "#fence_top" },
+        "north": { "uv": [ 7, 0, 9, 11 ], "texture": "#fence_side" },
+        "south": { "uv": [ 7, 0, 9, 11 ], "texture": "#fence_side" },
+        "west":  { "uv": [ 7, 0, 9, 11 ], "texture": "#fence_side" },
+        "east":  { "uv": [ 7, 0, 9, 11 ], "texture": "#fence_side" }
+    }
+},
+{
+    "from": [ 2, 12, 7 ],
+    "to": [ 14, 15, 9 ],
+    "faces": {
+        "down":  { "uv": [ 14, 9, 2, 7 ], "texture": "#fence_top" },
+        "up":    { "uv": [ 2, 7, 14, 9 ], "texture": "#fence_top" },
+        "north": { "uv": [ 2, 1, 14, 4 ], "texture": "#texture_front" },
+        "south": { "uv": [ 2, 1, 14, 4 ], "texture": "#texture_front" }
+    }
+},
+{
+    "from": [ 2, 6, 7 ],
+    "to": [ 14, 9, 9 ],
+    "faces": {
+        "down":  { "uv": [ 14, 9, 2, 7 ], "texture": "#fence_top" },
+        "up":    { "uv": [ 2, 7, 14, 9 ], "texture": "#fence_top" },
+        "north": { "uv": [ 2, 7, 14, 10 ], "texture": "#texture_front" },
+        "south": { "uv": [ 2, 7, 14, 10 ], "texture": "#texture_front" }
+    }
+},
+{
+    "from": [ 6, 9, 7 ],
+    "to": [ 10, 12, 9 ],
+    "faces": {
+        "north": { "uv": [ 6, 4, 10, 7 ], "texture": "#texture_front" },
+        "south": { "uv": [ 6, 4, 10, 7 ], "texture": "#texture_front" },
+        "west":  { "uv": [ 6, 4, 8, 7 ], "texture": "#texture_front" },
+        "east":  { "uv": [ 6, 4, 8, 7 ], "texture": "#texture_front" }
+    }
+}
+]
+}
