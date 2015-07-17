@@ -34,7 +34,7 @@ Public mix-packs must have permission from the council & must link directly to t
 
 Reuploading or releasing this pack anywhere other than the Dokucraft forum is not allowed unless you have the permission to do so from the council.
 
-You’re are certainly not allowed to put this website, forums, or any Dokucraft download link behind adf.ly.
+Youâ€™re are certainly not allowed to put this website, forums, or any Dokucraft download link behind adf.ly.
 
 Do not use any textures created for the continuation in your own texture pack you intend to release, not even as place-holders.
 
@@ -54,4 +54,4 @@ at: <dokucraft@outlook.com> You may not get a response,
 but it provides me with valuable feedback to ensure
 ower work isn't being illegally stolen for profit.
 
-© 2009-2015, Dokucraft: The Saga Continues <dokucraft@outlook.com>
+Â© 2009-2015, Dokucraft: The Saga Continues <dokucraft@outlook.com>
