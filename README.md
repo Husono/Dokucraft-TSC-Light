@@ -11,7 +11,7 @@ Optifine will not work with many of the special
 additional features included in this pack.
 
 For detailed installation instructions and general 
-troubleshooting please visit owr official website or forum: 
+troubleshooting please visit our official website or forum: 
 
 Website:
 http://dokucraft.co.uk
@@ -34,13 +34,13 @@ Public mix-packs must have permission from the council & must link directly to t
 
 Reuploading or releasing this pack anywhere other than the Dokucraft forum is not allowed unless you have the permission to do so from the council.
 
-You’re are certainly not allowed to put this website, forums, or any Dokucraft download link behind adf.ly.
+You are certainly not allowed to put this website, forums, or any Dokucraft download link behind adf.ly.
 
 Do not use any textures created for the continuation in your own texture pack you intend to release, not even as place-holders.
 
 You are not allowed to use this pack for any commercial purposes.
 
-You are  not allowed to redistribute the Dokucraft music in any other texture pack.
+You are not allowed to redistribute the Dokucraft music in any other texture pack.
 
 If you'd like to use any of this work for a remix or
 as a base for your own pack be sure to read and
@@ -52,6 +52,6 @@ other than the dokucraft website, minecraft forum or
 dokucraft Planet Minecraft account, please inform me 
 at: <dokucraft@outlook.com> You may not get a response,
 but it provides me with valuable feedback to ensure
-ower work isn't being illegally stolen for profit.
+our work isn't being illegally stolen for profit.
 
 © 2009-2015, Dokucraft: The Saga Continues <dokucraft@outlook.com>
