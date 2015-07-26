@@ -1,23 +1,19 @@
 Dokucraft: The Saga Continues Light
 By Dokucraft TSC
 
+[Homepage](http://dokucraft.co.uk) | [Project Site](https://github.com/Dokucraft-TSC/Dokucraft-TSC-Light) | [Forum](http://www.minecraftforum.net/topic/513093-dokucraft-the-saga-continues/)
+
 Managers for this pack
 Hickerydickery
 WantedRobot
 
 This pack requires the very latest version of 
-MCPatcher for all features to function properly. 
+[MCPatcher](http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/1226351-1-8-7-1-7-10-and-earlier-update-4-23-mcpatcher-hd) for all features to function properly. 
 Optifine will not work with many of the special 
 additional features included in this pack.
 
 For detailed installation instructions and general 
-troubleshooting please visit our official website or forum: 
-
-Website:
-http://dokucraft.co.uk
-
-Forum:
-http://www.minecraftforum.net/topic/513093-dokucraft-the-saga-continues/
+troubleshooting please visit our official website or forum.
 
 Terms of Use:
 You are certainly allowed to use this pack in youtube videos & streams, providing that a link to the website & texture pack used.
